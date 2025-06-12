@@ -64,5 +64,8 @@ It uses rick-and-morty API to display characters, locations, episodes and allows
 
 `npm run build`
 
-<img src="/public/rick_and_morty_desktop.png" alt="Desktop version of the app" width="400px">
-<img src="/public/rick_and_morty_hero.png" alt="Desktop version of the hero page" width="400px">
+## Screenshots of the app
+
+<div align="center">
+<img src="/public/rick_and_morty_desktop.png" alt="Desktop version of the app" width="500px">
+</div>
