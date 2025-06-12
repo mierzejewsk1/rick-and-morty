@@ -67,5 +67,5 @@ It uses rick-and-morty API to display characters, locations, episodes and allows
 ## Screenshots of the app
 
 <div align="center">
-<img src="/public/rick_and_morty_desktop.png" alt="Desktop version of the app" width="500px">
+<img src="/public/rick_and_morty_desktop.png" alt="Desktop version of the app" width="800px">
 </div>
